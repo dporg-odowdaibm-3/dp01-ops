@@ -62,6 +62,15 @@ Minikube.
 
 ---
 
+## Install Kubernetes CLI
+
+To interact with your cluster from your local machine, you will need to use the 
+`kubectl` or `oc` command line interface.
+
+Add instructions to install `kubectl` or `oc` CLI.
+
+---
+
 ## Login to the cluster
 
 From the your OpenShift web console console, select `Copy login command`, and
